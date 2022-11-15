@@ -1,0 +1,63 @@
+body{
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("pexels-mudassir-ali-2680270.jpg");
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16 px
+}
+
+
+
+q{
+    text-align: center;
+    font-style: italic;
+}
+
+img{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+table td , table th {
+    border: 1px solid;
+    padding: 5px;
+}
+
+ul{
+    display : inline-block;
+    margin :auto;
+    text-align:left;
+  }
+
+
+a{
+    text-decoration: none;
+    color: black;    
+}
+
+a:hover{
+    color: orange;
+    text-decoration: underline;
+}
+
+.liste_tableau{
+
+    list-style-type: none;
+}
+
+.annectode{
+    text-align: left;
+}
